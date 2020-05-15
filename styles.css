@@ -1,0 +1,29 @@
+* {
+    font-family: 'Baloo 2', cursive;;
+}
+
+#box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+}
+
+#countdown {
+    margin: 0px auto;
+    font-size: 20px;
+}
+
+#miniTimer {
+    color: blue;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+img {
+    height: 125px;
+    width: 125px;
+}
+

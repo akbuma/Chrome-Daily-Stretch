@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Stretch Selector",
+    "description": "Please dont call on me Dave",
+    "version": "1.0",
+    "icons": { 
+        "16": "lavar.png",
+        "48": "lavar.png"
+    },
+    "browser_action": {
+        "default_icon": "lavar.png",
+        "default_popup": "dropdown.html"
+    }
+}
