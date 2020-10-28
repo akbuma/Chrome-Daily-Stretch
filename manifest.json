@@ -4,11 +4,11 @@
     "description": "Please dont call on me Dave",
     "version": "1.0",
     "icons": { 
-        "16": "lavar.png",
-        "48": "lavar.png"
+        "16": "stretch-icon.png",
+        "48": "stretch-icon.png"
     },
     "browser_action": {
-        "default_icon": "lavar.png",
+        "default_icon": "stretch-icon.png",
         "default_popup": "dropdown.html"
     }
 }
