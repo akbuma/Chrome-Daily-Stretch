@@ -1,4 +1,0 @@
-1. Show Time
-2. Start Button 
-3. Reset Button
-4. Alert

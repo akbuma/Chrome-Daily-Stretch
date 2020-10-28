@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Stretch Selector",
-    "description": "Please dont call on me Dave",
+    "description": "Take a break from your work and do some stretches!",
     "version": "1.0",
     "icons": { 
         "16": "stretch-icon.png",
